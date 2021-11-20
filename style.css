@@ -28,7 +28,7 @@ html {
 .attribution {
   position: absolute;
   width: 100%;
-  bottom: 5rem;
+  bottom: 1vh;
   left: 50%;
   transform: translateX(-50%);
   font-size: 11px;
@@ -46,7 +46,7 @@ body {
   font-family: "Manrope", sans-serif;
   background: var(--LightGrayishBlue);
 
-  padding: 0.5rem 1.5rem;
+  padding: 2rem 1.5rem;
 }
 
 main {
